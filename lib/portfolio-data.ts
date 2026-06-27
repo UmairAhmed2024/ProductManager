@@ -9,7 +9,7 @@ export const portfolioData = {
   summary: {
     title: 'Professional Summary',
     description:
-      'Analytical and entrepreneurial Product Owner with 2+ years of experience delivering end-to-end fintech and SaaS products across payments, EMI, and digital banking. Launched Tap-to-Pay (NFC) and EMI Business Account — scalable solutions that generated £30K revenue within the first month. Passionate about turning complex problems into simple, scalable solutions by collaborating with Design, Engineering, and Operations to build features customers love. Proven track record in data-informed product decisions, user testing, roadmap strategy, and cross-functional stakeholder management in fast-paced Agile environments.',
+      'Analytical and entrepreneurial Product Owner with experience of delivering end-to-end fintech and SaaS products across payments, EMI, and digital banking. Launched Tap-to-Pay (NFC) and EMI Business Account — scalable solutions that generated £30K revenue within the first month. Passionate about turning complex problems into simple, scalable solutions by collaborating with Design, Engineering, and Operations to build features customers love. Proven track record in data-informed product decisions, user testing, roadmap strategy, and cross-functional stakeholder management in fast-paced Agile environments.',
     kpis: [
       { value: '2+', label: 'Years Experience' },
       { value: '£30K', label: 'Revenue in Month 1' },
@@ -20,8 +20,8 @@ export const portfolioData = {
   experience: [
     {
       company: 'ACE Union',
-      role: 'Product Owner',
-      duration: '2024 – Present',
+      role: 'Product Officer',
+      duration: '2025 – Present',
       location: 'Manchester, UK',
       // description:
       //   'Owned end-to-end product strategy and delivery for fintech solutions across payments and digital banking.',
